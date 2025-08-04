@@ -1,81 +1,40 @@
-👋 Hey, I'm Amir!
+# <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <h1>👋 Hi, I'm Amir!</h1>
+  
+</div>
 
-I'm a Backend Developer passionate about crafting clean, efficient, and scalable code with Python and Django. I love tackling complex problems and building robust systems. If you need fast, secure APIs or a solid backend, I'm your guy! 😎
+<p style="text-align: center;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+</p>
 
-🚀 About Me
+I'm a **beginner backend developer** from the awesome country of **Iran** 🇮🇷. I'm diving into **Python** and **Django**, learning to build web apps and APIs. I'm just starting my coding journey, but I'm super excited to learn and create cool projects! 🚀
 
-💻 Skilled in backend development with Python and Django.
-🔧 Love building high-performance RESTful APIs.
-🧠 Always learning and exploring new tech.
-☕ Powered by coffee and good music while coding!
+---
 
+## 🌱 About Me
+- 💻 Learning **Python** and **Django** to make awesome web stuff.
+- 🌟 Proud to be from Iran, coding with passion.
+- 🧠 Eager to grow and tackle new challenges.
 
-🛠 Skills
+---
 
-Languages & Frameworks: Python, Django, Flask
-Databases: PostgreSQL, MySQL
-Tools: Git, Docker, RESTful APIs
-Soft Skills: Problem-solving, teamwork, time management
+## 🛠 What I'm Learning
+- **Python**: Writing scripts and small projects.
+- **Django**: Building simple web apps.
+- **Tools**: Getting comfy with Git.
 
-
-📊 GitHub Stats
-
-
-🌟 Featured Projects
-
-Project 1: A scalable Django API for managing complex data.
-Project 2: A commercial app backend built with Python and PostgreSQL.
-
-
-Check out my repositories for more cool projects!
+---
 
 
-📫 Connect with Me
+## 😎 My Coding Vibe
+> "Every line of code is a new adventure!"
 
-📧 Email: amir@example.com
-💼 LinkedIn: Amir on LinkedIn
-🐦 Twitter/X: @YourXHandle
+<p style="text-align: center;">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Coding Vibe">
+</p>
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-Beginner-blue?logo=python" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Django-Learning-green?logo=django" alt="Django Badge">
+</div>
 
-🎨 For Fun
-
-"Code is like poetry—write it so others can read it!"
-
-
-
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #1a1a1a, #2c3e50);
-    color: #ffffff;
-    text-align: center;
-    animation: fadeIn 2s ease-in-out;
-  }
-
-  h1, h2, h3 {
-    color: #00ff88;
-    text-shadow: 0 0 10px #00ff88;
-    animation: glow 1.5s ease-in-out infinite alternate;
-  }
-
-  img {
-    border-radius: 10px;
-    transition: transform 0.3s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  @keyframes glow {
-    from {
-      text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88;
-    }
-    to {
-      text-shadow: 0 0 20px #00ff88, 0 0 30px #00ff88;
-    }
-  }
